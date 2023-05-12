@@ -1,0 +1,6 @@
+C:\Users\eblock\OneDrive - Libelle AG\Desktop\Repado\REP_SMS_CONTROLLER_F\REP_SMS_CONTROLLER_F\bin\Debug\REP_SMS_CONTROLLER_F.dll
+C:\Users\eblock\OneDrive - Libelle AG\Desktop\Repado\REP_SMS_CONTROLLER_F\REP_SMS_CONTROLLER_F\bin\Debug\REP_SMS_CONTROLLER_F.pdb
+C:\Users\eblock\OneDrive - Libelle AG\Desktop\Repado\REP_SMS_CONTROLLER_F\REP_SMS_CONTROLLER_F\obj\Debug\REP_SMS_CONTROLLER_F.csproj.AssemblyReference.cache
+C:\Users\eblock\OneDrive - Libelle AG\Desktop\Repado\REP_SMS_CONTROLLER_F\REP_SMS_CONTROLLER_F\obj\Debug\REP_SMS_CONTROLLER_F.csproj.CoreCompileInputs.cache
+C:\Users\eblock\OneDrive - Libelle AG\Desktop\Repado\REP_SMS_CONTROLLER_F\REP_SMS_CONTROLLER_F\obj\Debug\REP_SMS_CONTROLLER_F.dll
+C:\Users\eblock\OneDrive - Libelle AG\Desktop\Repado\REP_SMS_CONTROLLER_F\REP_SMS_CONTROLLER_F\obj\Debug\REP_SMS_CONTROLLER_F.pdb
