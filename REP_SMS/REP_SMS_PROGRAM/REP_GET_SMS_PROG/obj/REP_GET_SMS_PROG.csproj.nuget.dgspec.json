@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\eblock\\OneDrive - Libelle AG\\Desktop\\Repado\\REP_GET_SMS_PROG\\REP_GET_SMS_PROG\\REP_GET_SMS_PROG.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\eblock\\OneDrive - Libelle AG\\Desktop\\Repado\\REP_GET_SMS_PROG\\REP_GET_SMS_PROG\\REP_GET_SMS_PROG.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eblock\\OneDrive - Libelle AG\\Desktop\\Repado\\REP_GET_SMS_PROG\\REP_GET_SMS_PROG\\REP_GET_SMS_PROG.csproj",
+        "projectName": "REP_GET_SMS_PROG",
+        "projectPath": "C:\\Users\\eblock\\OneDrive - Libelle AG\\Desktop\\Repado\\REP_GET_SMS_PROG\\REP_GET_SMS_PROG\\REP_GET_SMS_PROG.csproj",
+        "packagesPath": "C:\\Users\\eblock\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eblock\\OneDrive - Libelle AG\\Desktop\\Repado\\REP_GET_SMS_PROG\\REP_GET_SMS_PROG\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eblock\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
